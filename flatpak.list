@@ -10,7 +10,9 @@ com.sindresorhus.Caprine
 com.skype.Client
 com.slack.Slack
 com.spotify.Client
+com.valvesoftware.Steam
 com.visualstudio.code
+io.bassi.Amberol
 io.dbeaver.DBeaverCommunity
 io.github.shiftey.Desktop
 org.bluesabre.MenuLibre
